@@ -1,4 +1,4 @@
-from dodona import core
+import core
 from random import shuffle, choice
 
 import matplotlib as mpl
